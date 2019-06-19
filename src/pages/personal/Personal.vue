@@ -61,12 +61,16 @@ export default {
     }
   },
   created() {
+    //var that = this;//axios之后，this发生改变
     axios.get('/api/personal').then((res) => {
       res = res.data
       if (res.errno === ERR_OK) {
         this.user = res.data
+        console.log(res.data);
         this.listlength = res.data.contentlist.length
       }
+      console.log(res);
+      console.log(this.user);
     }).catch((error) => {
       console.warn(error)
     })

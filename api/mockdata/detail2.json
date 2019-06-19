@@ -3,10 +3,10 @@
   "data": {
     "id":1001,
     "userid":"u9001",
-    "nickname": "李留白3",
-    "avatar": "http://p1.wmpic.me/article/2017/03/06/1488780213_usvFXYIl.jpg",
-    "pic": "http://p3.wmpic.me/article/2015/12/15/1450149335_QCivaWCX.jpg",
-    "desc": "一花一世界，一鸟一天堂",
+    "nickname": "李留白3-我是详情页",
+    "avatar": "http://pic.gzpinda.com/allimg/1706/41-1F629105050.jpg",
+    "pic": "http://pic.gzpinda.com/allimg/1706/41-1F629105050.jpg",
+    "desc": "一花一世界，一鸟一天堂~LC",
     "themeid": "info",
     "module": "daily",
     "createtime":"1475164800000",
@@ -16,7 +16,7 @@
       {
         "reviewerid":"u333",
         "revieweravatar":"",
-        "comment":"很喜欢！"
+        "comment":"很喜欢！~LC"
       },
       {
         "reviewerid":"u343",
